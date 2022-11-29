@@ -1,0 +1,25 @@
+#prvi_paragraf{
+font-size: large;
+font-style: italic;
+color:rgb(121, 37, 121) ;
+background-color: rgb(201, 194, 194);
+text-align: middle ;
+}
+
+#Drugi_paragraf{
+
+    font-size: medium;
+    background-color: rgb(201, 194, 194);
+    
+}
+#Treci_paragraf{
+    padding-left: 550px;
+    padding-top: 70px;
+    background-color: rgb(201, 194, 194);
+}
+#Cetvrti_paragraf{
+color: rgb(121, 37, 121);
+background-color: rgb(201, 194, 194);
+font-size: 15px;
+
+}
